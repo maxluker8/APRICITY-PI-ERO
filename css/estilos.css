@@ -53,6 +53,10 @@ h2 {
     margin-bottom: 50px;
 }
 
+del {
+    text-decoration: line-through red;
+}
+
 .btn-primary {
     background-color: black;
     border: black solid 2px;
@@ -62,4 +66,23 @@ h2 {
     background-color: #333;
     color: rosybrown;
     border: #333;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+h6 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+i {
+    color: white;
+    margin-bottom: 25px;
+}
+
+i:hover {
+    color: rosybrown;
 }
